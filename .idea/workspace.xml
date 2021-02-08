@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="426e84b3-81d9-46d6-a69d-0c9d56afff09" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1evogHWCYSr5Mh6HCUl7spp09WL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Fox" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Fox" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.spider (2)">
+    <configuration name="article_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NYtimes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NYtimes/article_spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NYtimes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NYtimes/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NYtimes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NYtimes/spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fox" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fox/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChinaNewsTW" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChinaNewsTW/spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.spider (2)" />
+        <item itemvalue="Python.spider (1)" />
+        <item itemvalue="Python.article_spider" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.spider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="426e84b3-81d9-46d6-a69d-0c9d56afff09" name="Default Changelist" comment="" />
+      <created>1555997209382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555997209382</updated>
+      <workItem from="1555997212026" duration="327000" />
+      <workItem from="1555997926707" duration="256000" />
+      <workItem from="1555998435090" duration="94000" />
+      <workItem from="1562567258061" duration="2635000" />
+      <workItem from="1563003051123" duration="243000" />
+      <workItem from="1563003569447" duration="426000" />
+      <workItem from="1572092472622" duration="2425000" />
+      <workItem from="1577081706124" duration="298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6704000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="819" height="494" key="GridCell.Tab.0.bottom" timestamp="1595485371415">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state width="1659" height="494" key="GridCell.Tab.0.bottom/0.23.1680.967@0.23.1680.967" timestamp="1595483508014" />
+    <state width="819" height="494" key="GridCell.Tab.0.bottom/0.23.1680.969@0.23.1680.969" timestamp="1595485371415" />
+    <state width="1659" height="494" key="GridCell.Tab.0.bottom/0.23.1680.971@0.23.1680.971" timestamp="1595483552287" />
+    <state width="1659" height="416" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1595240373958" />
+    <state width="819" height="494" key="GridCell.Tab.0.center" timestamp="1595485371414">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state width="1659" height="494" key="GridCell.Tab.0.center/0.23.1680.967@0.23.1680.967" timestamp="1595483508012" />
+    <state width="819" height="494" key="GridCell.Tab.0.center/0.23.1680.969@0.23.1680.969" timestamp="1595485371414" />
+    <state width="1659" height="494" key="GridCell.Tab.0.center/0.23.1680.971@0.23.1680.971" timestamp="1595483552285" />
+    <state width="1659" height="416" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1595240373957" />
+    <state width="819" height="494" key="GridCell.Tab.0.left" timestamp="1595485371413">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state width="1659" height="494" key="GridCell.Tab.0.left/0.23.1680.967@0.23.1680.967" timestamp="1595483508010" />
+    <state width="819" height="494" key="GridCell.Tab.0.left/0.23.1680.969@0.23.1680.969" timestamp="1595485371413" />
+    <state width="1659" height="494" key="GridCell.Tab.0.left/0.23.1680.971@0.23.1680.971" timestamp="1595483552283" />
+    <state width="1659" height="416" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1595240373956" />
+    <state width="819" height="494" key="GridCell.Tab.0.right" timestamp="1595485371414">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state width="1659" height="494" key="GridCell.Tab.0.right/0.23.1680.967@0.23.1680.967" timestamp="1595483508013" />
+    <state width="819" height="494" key="GridCell.Tab.0.right/0.23.1680.969@0.23.1680.969" timestamp="1595485371414" />
+    <state width="1659" height="494" key="GridCell.Tab.0.right/0.23.1680.971@0.23.1680.971" timestamp="1595483552286" />
+    <state width="1659" height="416" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1595240373957" />
+    <state width="1659" height="332" key="GridCell.Tab.1.bottom" timestamp="1595301871583">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state width="1659" height="332" key="GridCell.Tab.1.bottom/0.23.1680.969@0.23.1680.969" timestamp="1595301871583" />
+    <state width="1659" height="332" key="GridCell.Tab.1.bottom/0.23.1680.972@0.23.1680.972" timestamp="1595223845098" />
+    <state width="1659" height="332" key="GridCell.Tab.1.center" timestamp="1595301871583">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state width="1659" height="332" key="GridCell.Tab.1.center/0.23.1680.969@0.23.1680.969" timestamp="1595301871583" />
+    <state width="1659" height="332" key="GridCell.Tab.1.center/0.23.1680.972@0.23.1680.972" timestamp="1595223845098" />
+    <state width="1659" height="332" key="GridCell.Tab.1.left" timestamp="1595301871582">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state width="1659" height="332" key="GridCell.Tab.1.left/0.23.1680.969@0.23.1680.969" timestamp="1595301871582" />
+    <state width="1659" height="332" key="GridCell.Tab.1.left/0.23.1680.972@0.23.1680.972" timestamp="1595223845097" />
+    <state width="1659" height="332" key="GridCell.Tab.1.right" timestamp="1595301871583">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state width="1659" height="332" key="GridCell.Tab.1.right/0.23.1680.969@0.23.1680.969" timestamp="1595301871583" />
+    <state width="1659" height="332" key="GridCell.Tab.1.right/0.23.1680.972@0.23.1680.972" timestamp="1595223845098" />
+    <state x="341" y="145" key="SettingsEditor" timestamp="1595211723793">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state x="341" y="145" key="SettingsEditor/0.23.1680.967@0.23.1680.967" timestamp="1595211723793" />
+  </component>
+</project>
